@@ -1,0 +1,3 @@
+tensorflow
+mediapipe
+scikit
